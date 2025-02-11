@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(209, 195, 147);
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+button {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+#yesBtn {
+    background-color: #003366;
+    color: white;
+}
+
+#noBtn {
+    background-color: #dc3545;
+    color: white;
+}
